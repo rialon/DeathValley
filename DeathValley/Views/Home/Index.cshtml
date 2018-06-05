@@ -1,0 +1,39 @@
+﻿@model DeathValley.Models.Chart
+
+@{
+    ViewBag.Title = "Chart";
+}
+
+<script src="~/Scripts/drawChart.js"></script>
+<div class="float-lg-left border-dark">
+    @Html.Partial("Chart", Model)
+</div>
+
+<div class="card card-body bg-light float-sm-right">
+    <ul id="errorMessages"></ul>
+    @using (Ajax.BeginForm("Chart", "Home", new AjaxOptions { HttpMethod = "POST", OnSuccess = "drawChart" })) {
+        <div class="form-group row no-gutters">
+            <label class="col-form-label input-group-prepend col-sm-1">Function: </label>
+            <label class="justify-content-center col-form-label input-group-prepend col-sm-1"> y = </label>
+            @Html.TextBoxFor(model => model.CoefficientA, new { @class = "input-sm col-sm-1", @type = "number", step = "1", required = "required" })
+            <label class="justify-content-center col-form-label input-group-prepend col-sm-1"> x^2 + </label>
+            @Html.TextBoxFor(model => model.CoefficientB, new { @class = "input-sm col-sm-1", @type = "number", step = "1", required = "required" })
+            <label class="justify-content-center col-form-label input-group-prepend col-sm-1"> x + </label>
+            @Html.TextBoxFor(model => model.CoefficientC, new { @class = "input-sm col-sm-1", @type = "number", step = "1", required = "required" })
+        </div>
+        <div class="form-group row no-gutters">
+            <label class="input-group-prepend col-sm-1">Step:  </label>
+            @Html.TextBoxFor(model => model.Step, new { @class = "input-sm col-sm-1", @type = "number", step = "1", min = "0", required = "required" })
+        </div>
+        <div class="form-group row no-gutters">
+            <label class="input-group-prepend col-sm-1">From:  </label>
+            @Html.TextBoxFor(model => model.LowerLimit, new { @class = "input-sm col-sm-1", @type = "number", step = "1", required = "required" })
+            <label class="justify-content-center input-group-prepend col-sm-1">To: </label>
+            @Html.TextBoxFor(model => model.HigherLimit, new { @class = "input-sm col-sm-1", @type = "number", step = "1", required = "required" })
+        </div>
+
+        <div class="text-center">
+            <input class="btn btn-success col-sm-2 float-left" value="Plot" type="submit" />
+        </div>
+    }
+</div>

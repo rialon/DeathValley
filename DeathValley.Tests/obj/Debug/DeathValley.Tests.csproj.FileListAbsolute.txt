@@ -1,0 +1,70 @@
+d:\мои документы\visual studio 2015\Projects\DeathValley\DeathValley.Tests\bin\Debug\roslyn\csc.exe
+d:\мои документы\visual studio 2015\Projects\DeathValley\DeathValley.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+d:\мои документы\visual studio 2015\Projects\DeathValley\DeathValley.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+d:\мои документы\visual studio 2015\Projects\DeathValley\DeathValley.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+d:\мои документы\visual studio 2015\Projects\DeathValley\DeathValley.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+d:\мои документы\visual studio 2015\Projects\DeathValley\DeathValley.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+d:\мои документы\visual studio 2015\Projects\DeathValley\DeathValley.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+d:\мои документы\visual studio 2015\Projects\DeathValley\DeathValley.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+d:\мои документы\visual studio 2015\Projects\DeathValley\DeathValley.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+d:\мои документы\visual studio 2015\Projects\DeathValley\DeathValley.Tests\bin\Debug\roslyn\vbc.exe
+d:\мои документы\visual studio 2015\Projects\DeathValley\DeathValley.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+d:\мои документы\visual studio 2015\Projects\DeathValley\DeathValley.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+d:\мои документы\visual studio 2015\Projects\DeathValley\DeathValley.Tests\bin\Debug\DeathValley.Tests.dll
+d:\мои документы\visual studio 2015\Projects\DeathValley\DeathValley.Tests\bin\Debug\DeathValley.Tests.pdb
+d:\мои документы\visual studio 2015\Projects\DeathValley\DeathValley.Tests\bin\Debug\DeathValley.dll
+d:\мои документы\visual studio 2015\Projects\DeathValley\DeathValley.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+d:\мои документы\visual studio 2015\Projects\DeathValley\DeathValley.Tests\bin\Debug\System.Web.Mvc.dll
+d:\мои документы\visual studio 2015\Projects\DeathValley\DeathValley.Tests\bin\Debug\System.Web.Razor.dll
+d:\мои документы\visual studio 2015\Projects\DeathValley\DeathValley.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+d:\мои документы\visual studio 2015\Projects\DeathValley\DeathValley.Tests\bin\Debug\System.Web.WebPages.dll
+d:\мои документы\visual studio 2015\Projects\DeathValley\DeathValley.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+d:\мои документы\visual studio 2015\Projects\DeathValley\DeathValley.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+d:\мои документы\visual studio 2015\Projects\DeathValley\DeathValley.Tests\bin\Debug\DeathValley.pdb
+d:\мои документы\visual studio 2015\Projects\DeathValley\DeathValley.Tests\bin\Debug\System.Web.Mvc.xml
+d:\мои документы\visual studio 2015\Projects\DeathValley\DeathValley.Tests\bin\Debug\System.Web.Razor.xml
+d:\мои документы\visual studio 2015\Projects\DeathValley\DeathValley.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+d:\мои документы\visual studio 2015\Projects\DeathValley\DeathValley.Tests\bin\Debug\System.Web.WebPages.xml
+d:\мои документы\visual studio 2015\Projects\DeathValley\DeathValley.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+d:\мои документы\visual studio 2015\Projects\DeathValley\DeathValley.Tests\obj\Debug\DeathValley.Tests.csprojResolveAssemblyReference.cache
+d:\мои документы\visual studio 2015\Projects\DeathValley\DeathValley.Tests\obj\Debug\DeathValley.Tests.dll
+d:\мои документы\visual studio 2015\Projects\DeathValley\DeathValley.Tests\obj\Debug\DeathValley.Tests.pdb
+D:\Мои документы\Visual Studio 2015\Projects\DeathValley\DeathValley.Tests\bin\Debug\Ninject.dll
+D:\Мои документы\Visual Studio 2015\Projects\DeathValley\DeathValley.Tests\bin\Debug\Ninject.xml
+C:\Users\Rialon\source\repos\DeathValley\DeathValley.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\Rialon\source\repos\DeathValley\DeathValley.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rialon\source\repos\DeathValley\DeathValley.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rialon\source\repos\DeathValley\DeathValley.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rialon\source\repos\DeathValley\DeathValley.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rialon\source\repos\DeathValley\DeathValley.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rialon\source\repos\DeathValley\DeathValley.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rialon\source\repos\DeathValley\DeathValley.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\Rialon\source\repos\DeathValley\DeathValley.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rialon\source\repos\DeathValley\DeathValley.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\Rialon\source\repos\DeathValley\DeathValley.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\Rialon\source\repos\DeathValley\DeathValley.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\Rialon\source\repos\DeathValley\DeathValley.Tests\bin\Debug\DeathValley.Tests.dll
+C:\Users\Rialon\source\repos\DeathValley\DeathValley.Tests\bin\Debug\DeathValley.Tests.pdb
+C:\Users\Rialon\source\repos\DeathValley\DeathValley.Tests\bin\Debug\DeathValley.dll
+C:\Users\Rialon\source\repos\DeathValley\DeathValley.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Rialon\source\repos\DeathValley\DeathValley.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Rialon\source\repos\DeathValley\DeathValley.Tests\bin\Debug\Ninject.dll
+C:\Users\Rialon\source\repos\DeathValley\DeathValley.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Rialon\source\repos\DeathValley\DeathValley.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Rialon\source\repos\DeathValley\DeathValley.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Rialon\source\repos\DeathValley\DeathValley.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Rialon\source\repos\DeathValley\DeathValley.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Rialon\source\repos\DeathValley\DeathValley.Tests\bin\Debug\DeathValley.pdb
+C:\Users\Rialon\source\repos\DeathValley\DeathValley.Tests\bin\Debug\DeathValley.dll.config
+C:\Users\Rialon\source\repos\DeathValley\DeathValley.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Rialon\source\repos\DeathValley\DeathValley.Tests\bin\Debug\Ninject.xml
+C:\Users\Rialon\source\repos\DeathValley\DeathValley.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Rialon\source\repos\DeathValley\DeathValley.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Rialon\source\repos\DeathValley\DeathValley.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Rialon\source\repos\DeathValley\DeathValley.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Rialon\source\repos\DeathValley\DeathValley.Tests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Rialon\source\repos\DeathValley\DeathValley.Tests\obj\Debug\DeathValley.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Rialon\source\repos\DeathValley\DeathValley.Tests\obj\Debug\DeathValley.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Rialon\source\repos\DeathValley\DeathValley.Tests\obj\Debug\DeathValley.Tests.csproj.CopyComplete
+C:\Users\Rialon\source\repos\DeathValley\DeathValley.Tests\obj\Debug\DeathValley.Tests.dll
+C:\Users\Rialon\source\repos\DeathValley\DeathValley.Tests\obj\Debug\DeathValley.Tests.pdb
