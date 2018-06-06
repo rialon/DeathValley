@@ -16,7 +16,7 @@ namespace DeathValley.Models {
         public int CoefficientC { get; set; }
 
         [Required(ErrorMessage = "Please enter step value")]
-        [Range(0, int.MaxValue, ErrorMessage = "Please enter a positive step")]
+        [Range(1, int.MaxValue, ErrorMessage = "Please enter a positive step")]
         public int Step { get; set; }
 
         [Required(ErrorMessage = "Please enter lower limit")]

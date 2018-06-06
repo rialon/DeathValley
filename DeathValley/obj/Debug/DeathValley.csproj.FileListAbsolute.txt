@@ -112,4 +112,3 @@ D:\Clear\DeathValley\DeathValley\obj\Debug\DeathValley.csproj.CoreCompileInputs.
 D:\Clear\DeathValley\DeathValley\obj\Debug\DeathValley.csproj.CopyComplete
 D:\Clear\DeathValley\DeathValley\obj\Debug\DeathValley.dll
 D:\Clear\DeathValley\DeathValley\obj\Debug\DeathValley.pdb
-D:\Clear\DeathValley\DeathValley\obj\Debug\DeathValley.csprojResolveAssemblyReference.cache
