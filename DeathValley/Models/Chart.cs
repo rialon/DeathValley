@@ -16,8 +16,8 @@ namespace DeathValley.Models {
         public int CoefficientC { get; set; }
 
         [Required(ErrorMessage = "Please enter step value")]
-        [Range(1, int.MaxValue, ErrorMessage = "Please enter a positive step")]
-        public int Step { get; set; }
+        [Range(0.0001, double.MaxValue, ErrorMessage = "Please enter a positive step (greater than 0.0001)")]
+        public double Step { get; set; }
 
         [Required(ErrorMessage = "Please enter lower limit")]
         public int LowerLimit { get; set; }
@@ -27,8 +27,8 @@ namespace DeathValley.Models {
         public List<Point> Points { get; set; }
 
         public struct Point {
-            public int X { get; set; }
-            public int Y { get; set; }
+            public double X { get; set; }
+            public double Y { get; set; }
         }
     }
 }
